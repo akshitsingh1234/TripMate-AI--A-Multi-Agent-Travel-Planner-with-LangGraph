@@ -21,7 +21,7 @@ conda activate travel
 pip install -r requirements.txt
 ```
 
-Do anything
+
 
 
 
