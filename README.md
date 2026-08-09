@@ -6,7 +6,7 @@
 1. Create the Virtual Environment
 
 ```bash
-conda create - n travel python=3.11 -y
+conda create -n travel python=3.11 -y
 ```
 
 2. Activate the Environment
@@ -20,3 +20,6 @@ conda activate travel
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
