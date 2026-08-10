@@ -210,6 +210,9 @@ def resolve_location_to_iata(location: str):
     Converts country/city/airport/IATA into IATA code.
 
     Examples:
+    India -> IND
+    Mumbai -> BOM
+    Jaipur -> JAI
     Bangladesh -> DAC
     Japan -> NRT
     Dhaka -> DAC
